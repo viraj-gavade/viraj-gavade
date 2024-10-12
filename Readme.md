@@ -47,8 +47,9 @@
 
 <h2>📫 How to reach me:</h2>
 <ul>
-  <li><b>Email:</b> viraj123@gmail.com</li>
+  <li><b>Email:</b> vrajgavade17@gmail.com</li>
   <li><b>GitHub:</b> <a href="https://github.com/viraj-gavade">viraj-gavade</a></li>
+  <li><b>Instagram:</b> <a href="https://www.instagram.com/_viraj.js/?next=%2Fe">Viraj Gavade</a></li>
 </ul>
 
 <hr>
