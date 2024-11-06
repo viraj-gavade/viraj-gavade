@@ -38,6 +38,10 @@
     <td><b>E-Library</b></td>
     <td><a href="https://github.com/viraj-gavade/E-Library">GitHub Repo</a></td>
   </tr>
+    <tr>
+    <td><b>Expense-Tracker</b></td>
+    <td><a href="https://github.com/viraj-gavade/Expenses-Tracker-App">GitHub Repo</a></td>
+  </tr>
 </table>
 
 <h2>📈 GitHub Stats</h2>
