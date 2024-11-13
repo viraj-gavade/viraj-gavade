@@ -28,7 +28,7 @@
 <table>
   <tr>
     <td><b>Blogify</b></td>
-    <td><a href="https://blogify-gr5rm1tg.b4a.run">Live Demo</a> | <a href="https://github.com/viraj-gavade/Blogify">GitHub Repo</a></td>
+    <td><a href="https://github.com/viraj-gavade/Blogify">GitHub Repo</a></td>
   </tr>
   <tr>
     <td><b>VideoTube-Backend</b></td>
