@@ -54,6 +54,7 @@
   <li><b>Email:</b> vrajgavade17@gmail.com</li>
   <li><b>GitHub:</b> <a href="https://github.com/viraj-gavade">viraj-gavade</a></li>
   <li><b>Instagram:</b> <a href="https://www.instagram.com/_viraj.js/?next=%2Fe">Viraj Gavade</a></li>
+    <li><b>Portfolio:</b> <a href="https://viraj-gavade-portfolio.netlify.app/">Viraj Gavade</a></li>
 </ul>
 
 <hr>
