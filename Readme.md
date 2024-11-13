@@ -11,10 +11,10 @@
 <h2>🚀 Skills & Technologies</h2>
 <ul>
   <li><b>Languages:</b> JavaScript, Python, C++</li>
-  <li><b>Backend:</b> Node.js, Express, MongoDB, Mongoose, JWT</li>
-  <li><b>Frontend:</b> HTML, CSS, JavaScript, React (learning)</li>
+  <li><b>Backend:</b> Node.js, Express, MongoDB, Mongoose, JWT , OAuth2 , MySQL</li>
+  <li><b>Frontend:</b> HTML, CSS, JavaScript , Tailwind CSS</li>
   <li><b>DevOps:</b> Git, GitHub, GitHub Actions, Docker</li>
-  <li><b>Tools & Platforms:</b> Cloudinary, Back4App</li>
+  <li><b>Tools & Platforms:</b> Cloudinary, Back4App,Railway</li>
 </ul>
 
 <h2>🌱 Currently Learning</h2>
