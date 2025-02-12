@@ -40,6 +40,7 @@ I'm a dedicated Backend Developer with expertise in building secure, scalable AP
 
 ### Tools & Technologies
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-4285F4?style=flat-square&logo=cloudinary&logoColor=white)
