@@ -150,7 +150,7 @@ Modern task management application built with TypeScript and Express
 
 ## 📬 Get in Touch
 
-I'm always interested in collaborating on innovative projects and discussing tech! Feel free to reach out through any of the social links above or drop me an email at [viraj123@gmail.com](mailto:vrajgavade17@gmail.com).
+I'm always interested in collaborating on innovative projects and discussing tech! Feel free to reach out through any of the social links above or drop me an email at [vrjgavade17@gmail.com](mailto:vrajgavade17@gmail.com).
 
 <div align="center">
   <i>Happy Coding! 👨‍💻</i>
