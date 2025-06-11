@@ -42,7 +42,6 @@ I'm a passionate **MERN Stack Developer** with a strong grip on building full-st
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 ![Tailwind CSS ](https://img.shields.io/badge/Tailwind_CSS-grey?style=flat-square&logo=graphql&logoColor=white)
 ![BootStrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=graphql&logoColor=white)
-![BootStrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=graphql&logoColor=white)
 ![HTML5](https://shields.io/badge/HTML-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-f06529?logo=html5&logoColor=white&labelColor=f06529)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=style=flat-square&logo=graphql&logoColor=white)
 
