@@ -131,6 +131,7 @@ Modern task management application built with TypeScript and Express
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viraj-gavade&show_icons=true&theme=radical" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=viraj-gavade&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=viraj-gavade&show_icons=true&locale=en&layout=compact" alt="Atharvakumkar" />
 </div>
 
 ## 🎯 Current Focus
