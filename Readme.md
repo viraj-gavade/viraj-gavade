@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hello, I'm Viraj Gavade</h1>
-  <h3>MERN Stack Developer & API Architect</h3>
+  <h3>MERN Stack Developer | API Architect | ML Enthusiast</h3>
   
   [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-viraj-gavades-projects.vercel.app/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viraj-gavade-8877aa30b/)
@@ -11,16 +11,19 @@
 
 ## 🚀 About Me
 
-I'm a passionate **MERN Stack Developer** with a strong grip on building full-stack web apps that scale. I'm also diving deep into **Machine Learning**—curious about how data can drive real-world solutions. I love building things that actually solve problems.
+I'm a passionate **MERN Stack & ML Developer** with a strong grip on building scalable web apps and intelligent systems.  
+Alongside crafting APIs and scalable backends, I'm exploring **Machine Learning** to bridge the gap between software engineering and data-driven solutions.
 
-### What I Do
+### What I Do  
 
-- 🌐 Build full-stack apps using MongoDB, Express, React, and Node.js
-- ⚙️ Design RESTful APIs and GraphQL services
-- 🔐 Implement secure authentication systems (OAuth2, JWT)
-- 🧠 Explore ML concepts like classification, regression & NLP
-- 🚀 Deploy apps using cloud platforms (Vercel, Back4App, Railway)
-- 📦 Work with microservices and scalable backends
+- 🌐 Build scalable full-stack apps with **MongoDB, Express, React, Node.js (MERN)**  
+- ⚙️ Design and optimize **RESTful APIs** & **GraphQL services**  
+- 🔐 Implement **secure authentication** (OAuth2, JWT, RBAC)  
+- 🧠 Develop **ML models** for classification, regression & NLP  
+- 🤖 Deploy ML models as **APIs with FastAPI / Flask**  
+- 🚀 Deploy and scale apps using **Vercel, Render, Railway, Back4App**  
+- 📦 Architect **microservices** and cloud-ready backends  
+
 
 ## 💻 Technical Skills
 
@@ -35,15 +38,23 @@ I'm a passionate **MERN Stack Developer** with a strong grip on building full-st
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000??style=flat-square&logo=nestjs&logoColor=white)
-![Seaborn](https://img.shields.io/badge/seaborn-0.13.2-66ccff?style=flat-square&logo=nestjs&logoColor=white)
-![Panads](https://img.shields.io/badge/-Pandas-333333??style=flat-square&logo=nestjs&logoColor=white)
-![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=flat-square&logo=nestjs&logoColor=white)
 ![Fast api](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=nestjs&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 ![Tailwind CSS ](https://img.shields.io/badge/Tailwind_CSS-grey?style=flat-square&logo=graphql&logoColor=white)
 ![BootStrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=graphql&logoColor=white)
 ![HTML5](https://shields.io/badge/HTML-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-f06529?logo=html5&logoColor=white&labelColor=f06529)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=style=flat-square&logo=graphql&logoColor=white)
+
+
+### 🧠 Machine Learning & Data Science
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-0099CC?style=flat-square&logo=python&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-85C1E9?style=flat-square&logo=python&logoColor=black)
+
 
 
 ### Databases
@@ -69,15 +80,16 @@ I'm a passionate **MERN Stack Developer** with a strong grip on building full-st
 
 ## 🏆 Featured Projects
 
-### [VideoTube-Backend](https://github.com/viraj-gavade/VideoTube-Backend)
-Scalable video platform backend built with modern best practices
-- 🔐 Secure user authentication with JWT and password hashing
-- 🎥 Video upload and storage integration with Cloudinary
-- 👥 Social features: comments, likes, and channel subscriptions
-- 🛡️ Role-based access control for secure operations
-- 📊 Optimized database queries and pagination
-- 🚀 Efficient caching for improved performance
-- 📝 Complete CRUD operations for video management
+
+### [StudyShare](https://github.com/viraj-gavade/STUDY-SHARE)  
+Full-stack MERN platform for sharing academic resources  
+- 🔐 JWT-based authentication with password reset via email  
+- 📂 File upload (PDF, DOCX, PPTX, images) with AWS S3 integration  
+- ⭐ Social features: upvotes, comments, and user dashboards  
+- 🔍 Search & filter by department, semester, or file type  
+- ⚙️ Monorepo architecture with separate frontend & backend deployments  
+- 🧩 Built with React, Node.js, TypeScript, MongoDB, Tailwind, AWS S3  
+
 
 ### [Thriftify](https://github.com/viraj-gavade/Thriftify)  
 A modern, scalable e-commerce platform for buying and selling secondhand goods.
@@ -94,37 +106,27 @@ A modern, scalable e-commerce platform for buying and selling secondhand goods.
 - 🚀 Efficient caching for faster response times
 - 📝 Complete CRUD operations for item management
 
-### [Password Generator](https://github.com/viraj-gavade/Password-Generator)  
-A simple, secure password generator with customizable parameters for generating strong passwords.
-- 🔒 Generates secure, random passwords with customizable length and character types
-- 🎛️ User interface for selecting password complexity (uppercase, lowercase, numbers, symbols)
-- ⚡ Fast password generation with optimized algorithms
-- 💻 Built with modern JavaScript (ES6+) for a smooth user experience
-- 📜 Password history and copy-to-clipboard functionality for ease of use
-- 🛡️ Strong security practices for randomization and entropy
+### [Network-Security (ML)](https://github.com/viraj-gavade/Network-Security-Machine-Learning-Project)  
+ML-powered system for classifying network events or detecting intrusions (e.g., malicious vs benign traffic)
+-  **Dataset**: [your dataset name], features include [list key features, e.g., packet size, flags, protocol]
+-  **Models**: [e.g., Random Forest, Isolation Forest, Neural Network, etc.]
+-  **Pipeline**: data preprocessing → feature engineering → model training → evaluation (metrics like accuracy, F1-score)
+-  **Deployment**: served via FastAPI / Flask, containerized with Docker, optionally using MLflow for experiment tracking
+-  **Monitoring / UX**: simple API/UI (could be Streamlit, plain endpoints) for real-time inference & alerts
 
-  
-### [E-Commerce API](https://github.com/viraj-gavade/e-commerce-api)  
-A robust RESTful API for managing e-commerce operations, including products, orders, and users.
-- 🔐 Secure authentication with JWT and password hashing for user login and registration
-- 📊 Optimized database queries for fast product search and order retrieval
-- 🛡️ Role-based access control (RBAC) for admin and customer management
-- 🧑‍💻 Clean, maintainable code following best practices with Express.js and MongoDB
+### [Heart Disease Prediction (ML)](https://github.com/viraj-gavade/Heart-disease-Prediction-using-Machine-Learning)  
+ML-powered web app that predicts heart disease risk in real time  
+- 🧠 Logistic Regression model using Scikit-learn, trained on patient health metrics (age, cholesterol, blood pressure, ECG data, and more)  
+- 🌐 FastAPI backend with intuitive, mobile-responsive frontend (HTML + JS + Tailwind CSS)  
+- 🎨 Rich visualizations with Matplotlib, Seaborn, and Chart.js for confidence levels and risk insights  
+- 🚀 Deployed on Render with Docker, `Procfile`, and `render.yaml` for smooth deployments  
 
+### [Conversational PDF Chatbot (GenAI)](https://github.com/viraj-gavade/End-to-end-Conversational-chatbot-with-pdf-and-chat-history)  
+Streamlit-based RAG chatbot that lets users upload PDFs and chat with their content  
+-  RAG pipeline via LangChain + HF embeddings + Chroma vector store  
+-  Conversational PDF querying with session-aware chat history  
+-  Built with Streamlit, HuggingFace, LangChain, ChromaDB  
 
-### [URL-Shortener](https://github.com/viraj-gavade/Url-Shortner)
-Efficient URL shortening service
-- ⚡ Fast redirection system
-- 🔒 Secure custom URL generation
-- 🎯 API rate limiting
-
-### [Task Manager-TS](https://github.com/viraj-gavade/Task-Manager-TS)
-Modern task management application built with TypeScript and Express
-- 🔐 JWT authentication and authorization
-- 📝 CRUD operations for tasks and users
-- 🎯 TypeScript for enhanced type safety and developer experience
-- 📊 MongoDB integration with Mongoose ODM
-- ✨ Clean architecture with middleware implementation
 
 ## 📈 GitHub Analytics
 
@@ -136,11 +138,14 @@ Modern task management application built with TypeScript and Express
 
 ## 🎯 Current Focus
 
-- 📚 Deepening knowledge in Data Structures & Algorithms
+- 🤖 Building ML APIs & deploying models
+- 🧠 Deepening knowledge in NLP and Computer Vision
+- 📚 Exploring MLOps and scalable ML deployment
 - 🌐 Exploring microservices architectures
 - 🔍 Contributing to open-source projects
 - 🏆 Participating in hackathons and tech competitions
 - 💡 Building scalable TypeScript applications
+- 
 
 ## 🌐 Social Media & Community
 
